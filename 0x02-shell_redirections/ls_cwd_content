@@ -1,0 +1,13 @@
+total 44
+drwxrwxr-x 2 vagrant vagrant 4096 Mar 20 16:02 .
+drwxrwxr-x 6 vagrant vagrant 4096 Mar 20 14:11 ..
+-rwxrwxr-x 1 vagrant vagrant   30 Mar 20 14:16 0-hello_world
+-rw-rw-r-- 1 vagrant vagrant   22 Mar 20 14:39 1-confused_smiley
+-rwxrwxr-x 1 vagrant vagrant   28 Mar 20 14:49 2-hellofile
+-rwxrwxr-x 1 vagrant vagrant   39 Mar 20 15:02 3-twofiles
+-rwxrwxr-x 1 vagrant vagrant   29 Mar 20 14:45 4-lastlines
+-rwxrwxr-x 1 vagrant vagrant   29 Mar 20 14:40 5-firstlines
+-rwxrwxr-x 1 vagrant vagrant   78 Mar 20 16:00 7-file
+-rwxrwxr-x 1 vagrant vagrant   36 Mar 20 16:02 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant   18 Mar 20 15:01 capable
+-rw-rw-r-- 1 vagrant vagrant    0 Mar 20 16:02 ls_cwd_content
